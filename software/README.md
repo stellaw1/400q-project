@@ -1,0 +1,4 @@
+ - A README which outlines any requirements and dependencies
+ - Instructions detailing how to run the code and reproduce any tables/plots in your presentation and report
+ - Full documentation (docstrings as well as inline comments)
+ - A statement explaining the contributions of each group member
