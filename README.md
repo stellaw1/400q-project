@@ -1,1 +1,3 @@
-# 400q-project
+# CPEN 400Q Project
+## Code Running Instructions
+## Individual Contributions

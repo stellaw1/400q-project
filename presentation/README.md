@@ -1,7 +1,0 @@
- - a 12-minute presentation of their work, with 3 additional minutes for questions
- - explain why the paper is relevant / interesting, and what are the novel results
- - briefly outline the underlying theory of the paper
- - highlight your software design and implementation
- - include a short live demo that reproduces a key result
- - The target audience is the other students in the class
- - peer-graded: your classmates will rate the comprehensibility of your presentation
